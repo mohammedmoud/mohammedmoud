@@ -2,7 +2,6 @@
 <h3 align="center">A passionate competitive programmer from Egypt</h3>
 
 - 📫 How to reach me **myworkmoud@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dBStdwqow_vI_nFA4Ti6ppSMyKnlEqar/edit)
 
 <h3 align="center">Connect with me:</h3>
